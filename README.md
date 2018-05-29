@@ -1,1 +1,1 @@
-# Lottery-Solidity-Ethereum
+# Ethereum Lottery Solidity with Reactjs
